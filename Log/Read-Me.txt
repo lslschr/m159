@@ -1,0 +1,15 @@
+----------------------
+AD automation
+----------------------
+
+Made by: Luis Lüscher
+
+How it works?
+
+Simply select a tool you want to use and click on the button. 
+You can create Users, see all Users of OUs and Groups.
+You can also delete User.
+----------------------
+Are logs visible?
+----------------------	
+Yes there are logs visible. Just look under the directory Logsfiles.	
